@@ -37,7 +37,7 @@ def download_music():
                         ydl.download([search_url])
                         print(f'{Fore.LIGHTMAGENTA_EX}Audio {song_name} audio downloaded successfully.{Style.RESET_ALL}')
                     except Exception as e:
-                        print(f"{Fore.RED}Une musique n'a pas été trouver !{Style.RESET_ALL}")
+                        print(f"{Fore.RED}A sound was not found !{Style.RESET_ALL}")
                         pass
 
 def main():
