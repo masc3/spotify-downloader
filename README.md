@@ -24,4 +24,8 @@
 
 
 ### **How does it work?**
-➢ the program retrieves the link of the spotify playlist provided by the user and adds in a list the names and author of the songs, then the program will search and download the audios from youtube with the best format proposed until having gone through the entire list of music.
+➢ the program retrieves the link of the spotify playlist provided by the user and adds in a list the names and author of the songs, then the program will search and download the audios from youtube with the best format proposed until having gone through the entire list of music.    
+
+### **next update **  
+➢ more download option (solo download, types of format, and others).  
+➢ increased limit of 100 downloads per call.  
